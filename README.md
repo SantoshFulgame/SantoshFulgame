@@ -1,4 +1,4 @@
-![logo](https://github.com/SantoshFulgame/SantoshFulgame/blob/main/Github%20Banner.png) 
+
 <h1 align="center">Hi 👋, I'm Santosh Fulgame</h1>
 <h3 align="center">👋 Aspiring full-stack developer with a deep passion for exploring and mastering new technologies. 🚀 Always excited to learn, build, and innovate. 🌟 Let's embark on a journey of discovery in the world of coding! 💡</h3>
 
