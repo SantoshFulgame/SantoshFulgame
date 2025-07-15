@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Santosh Fulgame</h1>
-<h3 align="center">👋 Aspiring full-stack developer with a deep passion for exploring and mastering new technologies. 🚀 Always excited to learn, build, and innovate. 🌟 Let's embark on a journey of discovery in the world of coding! 💡</h3>
+<h3 align="center">💻 Currently working as a Junior Software Developer at xenvolt, building real-world applications and sharpening my skills in full-stack development. 🚀 Passionate about learning, coding, and exploring new technologies. 🌟 and 🎓 Graduated in Electronics and Telecommunication Engineering from VJTI, Mumbai.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
