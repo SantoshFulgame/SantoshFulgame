@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshfulgame&label=Profile%20views&color=0e75b6&style=flat" alt="santoshfulgame" /> </p>
 
-- 🌱 I’m currently learning Web3.0 and blockchain technology **Solidity, Web3.0**
+- 🌱 I’m currently working as a Junior Software Developer at xenvolt
 
 - 👨‍💻 All of my projects are available at [https://santoshfulgameportfolio.netlify.app/](https://santoshfulgameportfolio.netlify.app/)
 
