@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Santosh Fulgame</h1>
-<h3 align="center">💻 Currently working as a Junior Software Developer at xenvolt, building real-world applications and sharpening my skills in full-stack development. 🚀 Passionate about learning, coding, and exploring new technologies. 🌟 and 🎓 Graduated in Electronics and Telecommunication Engineering from VJTI, Mumbai.</h3>
+<h3 align="center">💻 Currently working as a Junior Software Developer at xenvolt.ai, building real-world applications and sharpening my skills in full-stack development. 🚀 Passionate about learning, coding, and exploring new technologies. 🌟 and 🎓 Graduated in Electronics and Telecommunication Engineering from VJTI, Mumbai.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshfulgame&label=Profile%20views&color=0e75b6&style=flat" alt="santoshfulgame" /> </p>
 
-- 🌱 I’m currently working as a Junior Software Developer at xenvolt
+- 🌱 I’m currently working as a Junior Software Developer at xenvolt.ai
 
 - 👨‍💻 All of my projects are available at [https://santoshfulgameportfolio.netlify.app/](https://santoshfulgameportfolio.netlify.app/)
 
